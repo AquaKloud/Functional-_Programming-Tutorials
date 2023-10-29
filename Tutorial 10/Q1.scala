@@ -1,4 +1,4 @@
-object Q_1 {
+object Q1 {
   def main(args: Array[String]): Unit = {
     println("Enter temperatures in celsius (one per line)\npress Enter on an empty line to finish")
 
