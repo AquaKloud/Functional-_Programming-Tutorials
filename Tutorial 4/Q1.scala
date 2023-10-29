@@ -1,6 +1,6 @@
 
 
-object Q_1 {
+object Q1 {
   def main(args: Array[String]): Unit = {
     print("Enter deposit amount - ")
     val depositAmount = scala.io.StdIn.readDouble()
